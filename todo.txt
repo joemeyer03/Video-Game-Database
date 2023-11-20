@@ -1,0 +1,13 @@
+Application Stuff:
+X Show number of collections
+X Show number of followers
+X Show number of following
+X Top ten games
+    X By rating
+    X By playtime
+    X By both
+X Top 20 most popular in 90 days
+X The top 20 most popular video games among my friends
+X The top 5 new releases of the month (calendar month)
+– Recommend video games to play
+/ Password security
